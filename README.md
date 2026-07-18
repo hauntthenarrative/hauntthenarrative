@@ -24,13 +24,14 @@
       <p>$\mathbf{. ಄ \ * \ don't \ be \ shy! \ always \ down \ to \ chat \ and \ make \ friends! *}$</p>
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/4f/b7/7d/4fb77d12b467e0d7af006eb7d75fc67c.gif" width="222" alt="gif">
+      <img src="https://i.pinimg.com/originals/4f/b7/7d/4fb77d12b467e0d7af006eb7d75fc67c.gif" width="150" alt="gif">
     </td>
   </tr>
 </table>
 
 ### $\mathbf{. ʚ thank \ you \ for \ your \ time, \ take \ care! <3 ɞ .}$
 <p>$\mathbf{⏔⏔⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔⏔⏔}$</p>
+
 
 <div align="center">
 <table>

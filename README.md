@@ -4,8 +4,8 @@
   <tr>
     <td>
       <h3>$\mathbf{please \ read \ this \ real \ quick \ before \ interacting}$</h3>
-      <p>$\mathbf{⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔}$</p>
-      <p>$\mathbf{જ⁀➴}$</p>
+      <p>⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔</p>
+      <p>જ⁀➴</p>
     </td>
     <td>
       <img src="https://gif-kartinki.ru/2/chashka-kofe.gif" width="150" alt="gif">
@@ -27,7 +27,7 @@
 </table>
 
 ### $\mathbf{. ʚ thank \ you \ for \ your \ time, \ take \ care! <3 ɞ .}$
-<p>$\mathbf{⏔⏔⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔⏔⏔}$</p>
+<p>⏔⏔⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔⏔⏔</p>
 
 <br><br><br>
 
@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td align="left" valign="middle">
-      <p>$\mathbf{╰┈➤}$</p>
+      <p>╰┈➤</p>
     </td>
     <td align="center" valign="middle">
       <a href="https://mercuryretrograde.atabook.org/">
